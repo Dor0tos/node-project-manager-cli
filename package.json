@@ -1,0 +1,21 @@
+{
+  "name": "project-manager-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dor0tos/node-project-manager-cli.git"
+  },
+  "keywords": [],
+  "author": "Dorotos",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dor0tos/node-project-manager-cli/issues"
+  },
+  "homepage": "https://github.com/Dor0tos/node-project-manager-cli#readme"
+}
