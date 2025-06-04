@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Dor0tos/node-project-manager-cli/issues"
   },
-  "homepage": "https://github.com/Dor0tos/node-project-manager-cli#readme"
+  "homepage": "https://github.com/Dor0tos/node-project-manager-cli#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
